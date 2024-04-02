@@ -14,6 +14,6 @@ job that will allow me to further develop my programming skills and gain new exp
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23512BD4.svg?style=for-the-badge?logo=microsoftsqlserver&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge?logo=microsoftsqlserver&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
