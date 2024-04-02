@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm a Full-stack developer with several years of experience in designing and delivering enterprise-class systems. My specialization is
-focused on creating web applications, and my skills include software design, implementation, and maintenance. I am seeking a
-job that will allow me to further develop my programming skills and gain new experiences.
+I'm a Full-stack developer with several years of experience in designing and delivering enterprise-class systems. My specialization lies in crafting web applications, and my skills encompass software design, implementation, and maintenance. While my GitHub projects may seem eclectic, they reflect my passion for exploring new technologies and venturing into the unknown. I thrive on embracing challenges and pushing the boundaries of what's possible. I'm currently seeking opportunities that will allow me to continue expanding my programming expertise and gaining invaluable experiences.
 
 ### My Stack
 
