@@ -21,5 +21,4 @@ job that will allow me to further develop my programming skills and gain new exp
 
 ### Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=duszakpawel&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true)
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=duszakpawel&langs_count=5&hide_title=true&hide_border=true&layout=compact)
