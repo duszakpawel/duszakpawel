@@ -19,6 +19,18 @@ While my GitHub projects may seem eclectic, they reflect my passion for explorin
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23512BD4.svg?style=for-the-badge&logo=microsoftsqlserver&color=%23CC2927)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+### Social Media
+
+<a href="https://www.linkedin.com/in/duszakpawel" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/duszakpawel" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="mailto:duszakpawel@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
 ### Github Stats
 
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=duszakpawel&langs_count=5&hide_title=true&hide_border=true&layout=compact)
