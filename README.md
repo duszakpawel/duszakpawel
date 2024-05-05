@@ -6,6 +6,7 @@ While my GitHub projects may seem eclectic, they reflect my passion for explorin
 
 Currently:
 - experimenting with Dart & Flutter
+  
 Backlog:
 - C++ back to the roots
 
