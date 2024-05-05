@@ -4,6 +4,11 @@ I'm a Full-stack developer with several years of experience in designing and del
 
 While my GitHub projects may seem eclectic, they reflect my passion for exploring new technologies and venturing into the unknown. I thrive on embracing challenges and pushing the boundaries of what's possible. I'm currently seeking opportunities that will allow me to continue expanding my programming expertise and gaining invaluable experiences.
 
+Currently:
+- experimenting with Dart & Flutter
+Backlog:
+- C++ back to the roots
+
 ### My Stack
 
 ![.NET Framework](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
